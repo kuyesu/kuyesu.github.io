@@ -1,0 +1,64 @@
+{
+    "title": {
+        "media": {
+            "caption": "",
+            "credit": "",
+            "url": "",
+            "width": "",
+            "height": ""
+        
+        },
+        "text": {
+            "headline": "",
+            "subheadline": "",
+            "paragraph": ""
+        }
+    },
+    "event": [
+        {
+            "startDate": "",
+            "endDate": "",
+            "headline": "",
+            "text": "",
+            "tag": "",
+            "classname": "",
+            "asset": {
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "",
+                    "width": "",
+                    "height": ""
+                },
+                "text": {
+                    "headline": "",
+                    "subheadline": "",
+                    "paragraph": ""
+                }
+            }
+        },
+        {
+            "startDate": "",
+            "endDate": "",
+            "headline": "",
+            "text": "",
+            "tag": "",
+            "classname": "",
+            "asset": {
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": "",
+                    "width": "",
+                    "height": ""
+                },
+                "text": {
+                    "headline": "",
+                    "subheadline": "",
+                    "paragraph": ""
+                }
+            }
+        }
+    ]
+
+}
